@@ -16,7 +16,7 @@ parameters and view the scan results conveniently.
 - Ensure appropriate network access and permissions for scanning.
 
 ## Usage
-- Run the script with root privileges (`sudo ./script_name.sh`).
+- Run the script with root privileges (`sudo ./PT.sh`).
 - Follow the on-screen instructions to:
     - Enter the network to scan.
     - Specify the output directory for saving scan results.
